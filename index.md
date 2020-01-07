@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0" frame="void">
+  <tr>
+    <td width="75%" frame="void">
+      <h1>Zhongxuan Cai</h1>
+      <p><b>caizhongxuan@nudt.edu.cn</b></p>
+      <p><b>I am a PhD student in the College of Computer, National University of Defense Technology (NUDT).</b></p>
+    </td>
+    <td width="25%" frame="void">
+      <img src="/photo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/caizhongxuan/caizhongxuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+- 2018.03- College of Computer Science, National University of Defense Technology, PhD in Computer Science and Technology
+- 2015.09-2017.12 College of Computer Science, National University of Defense Technology, Msc in Computer Science and Technology
+- 2011.09-2015.07 School of Information Science and Technology, Sun Yat-sen University, Bsc in Computer Science and Technology
 
-### Markdown
+## Research
+My research is mainly about distributed control and multi-agent system.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caizhongxuan/caizhongxuan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Main Publications
+1. Minglong Li, Wenjing Yang, Zhongxuan Cai, Shaowu Yang, Ji Wang. "Integrating decision sharing with prediction in decentralized planning for multi-agent coordination under uncertainty." Proceedings of the 28th International Joint Conference on Artificial Intelligence. AAAI Press, 2019.
+2. **Zhongxuan Cai**, Xuefeng Chang, Yanzhen Wang, Xiaodong Yi, Xue-Jun Yang. "Distributed control for flocking and group maneuvering of nonholonomic agents." Computer Animation and Virtual Worlds 28.3-4 (2017): e1777.
+3. Minglong Li, Zhongxuan Cai, Xiaodong Yi, Zhiyuan Wang, Yanzhen Wang, Yongjun Zhang, Xuejun Yang. "ALLIANCE-ROS: a software architecture on ROS for fault-tolerant cooperative multi-robot systems." Pacific Rim International Conference on Artificial Intelligence. Springer, Cham, 2016.
