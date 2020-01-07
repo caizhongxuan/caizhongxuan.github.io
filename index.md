@@ -23,6 +23,6 @@
 My research is mainly about distributed control and multi-agent system.
 
 ## Main Publications
-1. Minglong Li, Wenjing Yang, Zhongxuan Cai, Shaowu Yang, Ji Wang. "Integrating decision sharing with prediction in decentralized planning for multi-agent coordination under uncertainty." Proceedings of the 28th International Joint Conference on Artificial Intelligence. AAAI Press, 2019.
+1. Minglong Li, Wenjing Yang, **Zhongxuan Cai**, Shaowu Yang, Ji Wang. "Integrating decision sharing with prediction in decentralized planning for multi-agent coordination under uncertainty." Proceedings of the 28th International Joint Conference on Artificial Intelligence. AAAI Press, 2019.
 2. **Zhongxuan Cai**, Xuefeng Chang, Yanzhen Wang, Xiaodong Yi, Xue-Jun Yang. "Distributed control for flocking and group maneuvering of nonholonomic agents." Computer Animation and Virtual Worlds 28.3-4 (2017): e1777.
-3. Minglong Li, Zhongxuan Cai, Xiaodong Yi, Zhiyuan Wang, Yanzhen Wang, Yongjun Zhang, Xuejun Yang. "ALLIANCE-ROS: a software architecture on ROS for fault-tolerant cooperative multi-robot systems." Pacific Rim International Conference on Artificial Intelligence. Springer, Cham, 2016.
+3. Minglong Li, **Zhongxuan Cai**, Xiaodong Yi, Zhiyuan Wang, Yanzhen Wang, Yongjun Zhang, Xuejun Yang. "ALLIANCE-ROS: a software architecture on ROS for fault-tolerant cooperative multi-robot systems." Pacific Rim International Conference on Artificial Intelligence. Springer, Cham, 2016.
